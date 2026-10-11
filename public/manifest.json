@@ -1,0 +1,18 @@
+{
+  "name": "SurakshaShield — AI Scam & Threat Intelligence",
+  "short_name": "SurakshaShield",
+  "description": "Instant second opinion for suspicious messages, links, screenshots, and phone numbers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F5",
+  "theme_color": "#DA7756",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
