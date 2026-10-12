@@ -6,7 +6,7 @@ Privacy-first Indian digital threat triage engine with forensic entity extractio
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-orange.svg)](https://themes-gotten-fundamentals-club.trycloudflare.com)
 
-**Live Demo**: [https://themes-gotten-fundamentals-club.trycloudflare.com](https://themes-gotten-fundamentals-club.trycloudflare.com)
+**Live Demo**: https://suraksha-shield-topaz.vercel.app/)
 
 <!-- TODO: Add 1440px hero screenshot to docs/screenshot.png -->
 
